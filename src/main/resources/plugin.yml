@@ -1,0 +1,5 @@
+name: SpawnProtect
+version: '${project.version}'
+main: net.deadhorse.spawnprotect.SpawnProtect
+api-version: 1.17
+authors: [ sheaksadi ]
